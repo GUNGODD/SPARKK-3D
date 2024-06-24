@@ -25,4 +25,13 @@ function Box(props: any): void {
     (state: RootState, delta: number): any =>
       (meshRef.current.rotation.x += delta),
   );
+
+return (
+
+
+
+
+
+)
+  
 }
