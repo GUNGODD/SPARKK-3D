@@ -28,7 +28,7 @@ export default function Header() {
                 </button>
               </div>
             </div>
-
+            {/* Framer motion   grid  */}
             <div className="Menu  bg-emerald-400 mt-4  md:mr-6 md:mt-6 h-16  md:h-[80%] m-2 p-2 md:p-5 ">
               <h1 className="font-bold text-lg md:text-3xl m-2 md:m-2   ">
                 {" "}
