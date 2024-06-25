@@ -39,7 +39,11 @@ export default function Hero() {
               <div>
                 <h1 className=" flex gap-4 text-white font-extrabold  md:h-64  text-5xl  md:text-9xl ">
                   Your
-                  <span className="   font-mono  text-green-500 ml-3  font-extralight md:text-9xl">
+                  <span
+                    className="  
+text-parret
+                    font-mono  ml-3  font-extralight md:text-9xl"
+                  >
                     {" "}
                     ideas
                   </span>
