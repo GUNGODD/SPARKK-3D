@@ -45,9 +45,9 @@ export default function Hero() {
                   </span>
                 </h1>
               </div>
-              <div className=" gap-12     h-64 hidden social-media text-end flex-col md:flex    md:m-4 md: ">
+              <div className="     h-64 hidden  social-media text-end flex-col md:flex    md:m-4 md: ">
                 <div className="fixed ">
-                  <div className="w-full h-full flex flex-col gap-4 pl-48 ">
+                  <div className="w-full h-full flex flex-col gap-4 pl-20 ">
                     <a
                       className="w-full text-white"
                       href="https://www.instagram.com/ascenzennn"
