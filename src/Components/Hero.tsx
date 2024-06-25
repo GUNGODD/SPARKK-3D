@@ -1,5 +1,4 @@
 import { Icon } from "@iconify-icon/react/dist/iconify.mjs";
-import Scene from "../ThreeComponents/Scene";
 
 export default function Hero() {
   return (
@@ -30,9 +29,7 @@ export default function Hero() {
 
             {/*  end of large screen short discription  */}
             <div className="flex ">
-              <div className="canvas-class hidden md:grid ">
-                <Scene />
-              </div>
+              <div className="canvas-class hidden md:grid "></div>
 
               <h1 className="text-white font-extrabold  md:mt-0 ml-4  md:h-64 text-5xl md:ml-50 md:text-9xl">
                 Play with
